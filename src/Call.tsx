@@ -10,7 +10,7 @@ const appId = '019667ef9f7440be9811083a44bc8b58';
 function Call() {
   const [channel, setChannel] = useState('');
   const {
-    localAudioTrack,
+    // localAudioTrack,
     localVideoTrack,
     leave,
     join,

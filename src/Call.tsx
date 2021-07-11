@@ -65,7 +65,7 @@ function Call() {
             </p>
             <MediaPlayer
               videoTrack={localVideoTrack}
-              audioTrack={localAudioTrack}
+              audioTrack={undefined}
             ></MediaPlayer>
           </div>
         )}
